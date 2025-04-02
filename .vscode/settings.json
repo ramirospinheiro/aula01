@@ -1,0 +1,8 @@
+{
+    "diffEditor.renderGutterMenu": true,
+    "testing.gutterEnabled": true,
+    "scm.diffDecorationsGutterAction": "diff",
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    }
+}
